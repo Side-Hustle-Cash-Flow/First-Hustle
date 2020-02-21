@@ -1,18 +1,18 @@
-Project overview
+# Project overview
 
-Aggregate political data
-
-
-
---Flask web app
-    Serve up the data 
+## Aggregate political data
 
 
 
---Data scraping & storage
-    scraping data using python packages request and urllib
-    parsing data using BeautifulSoup 4
+* **Flask web app**
+    * Serve up the data 
 
---Data analysis 
-    python packages: Pandas
-    
+
+
+* **Data scraping & storage**
+    * Scrape(get): request and urllib
+    * Parse(format): BeautifulSoup 4
+
+* **Data analysis**
+    * Pandas
+
