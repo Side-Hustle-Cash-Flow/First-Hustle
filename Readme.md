@@ -12,6 +12,7 @@
 * **Data scraping & storage**
     * Scrape(get): request and urllib
     * Parse(format): BeautifulSoup 4
+    * Storage(database): ?
 
 * **Data analysis**
     * Pandas
