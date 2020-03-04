@@ -6,7 +6,7 @@
 
 * **Flask web app**
     * Serve up the data 
-
+    * running flask app = python 
 
 
 * **Data scraping & storage**
@@ -16,4 +16,15 @@
 
 * **Data analysis**
     * Pandas
+
+
+
+**Starting Environemnt**
+
+C> .\envi\Scripts\activate 
+
+**Starting Web App**
+
+C> python app.py 
+
 
